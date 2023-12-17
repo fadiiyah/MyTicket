@@ -1,9 +1,14 @@
-<h1 align="center">Selamat datang di Ticket! 👋</h1>
+<h1 align="center">Welcome to MyTicket! 🤗</h1>
 
+	Github ini digunakan untuk belajar demi memenuhi tugas akhir mata kuliah Enterprise Resource Planning. 
+ 
 ## Apa itu Ticket?
 
-Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariyadi </a>. **Ticket adalah Website untuk pemesanan ticket dengan mudah melalui website.**
+ **MyTicket adalah sebuah web penjualan tiket transportasi online yang menyediakan berbagai macam tiket transportasi, mulai dari tiket pesawat, kereta api, bus, hingga tiket kapal laut. MyTicket menawarkan pengalaman berbelanja tiket yang langsung fokus pada kepraktisan dan kecepatan. Dengan desain sederhana dan antarmuka yang intuitif, MyTicket memberikan pengguna akses cepat dan mudah untuk memesan tiket transportasi tanpa perlu menavigasi berbagai penawaran khusus..**
 
+## Note 🙏
+	Source Code ini bukan asli milik saya, Namun saya menggunakan Source Code milik https://github.com/adhiariyadi/Ticket-Laravel
+	
 ## Fitur apa saja yang tersedia di Ticket?
 
 -   Autentikasi Admin
@@ -14,13 +19,7 @@ Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariya
 -   Pemesanan Ticket
 -   Dan lain-lain
 
-## Release Date
 
-**Release date : 28 Apr 2020**
-
-> Ticket merupakan project open source yang dibuat oleh Adhi Ariyadi. Kalian dapat download/fork/clone. Cukup beri stars di project ini agar memberiku semangat. Terima kasih!
-
----
 
 ## Default Account for testing
 
@@ -36,8 +35,8 @@ Web Ticket yang dibuat oleh <a href="https://github.com/adhiariyadi"> Adhi Ariya
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/adhiariyadi/Ticket-Laravel.git
-cd Ticket-Laravel
+git clone https://github.com/fadiiyah/MyTicket.git
+cd MyTicket
 composer install
 cp .env.example .env
 ```
@@ -64,17 +63,5 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-## Author
+SELAMAT MENCOBA 😊
 
--   Facebook : <a href="https://web.facebook.com/adhiariyadi.me/"> Adhi Ariyadi</a>
--   LinkedIn : <a href="https://www.linkedin.com/in/adhiariyadi/"> Adhi Ariyadi</a>
-
-## Contributing
-
-Contributions, issues and feature requests di persilahkan.
-Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Berhubung Project ini saya sudah selesaikan sendiri, namun banyak fitur yang kalian dapat tambahkan silahkan berkontribusi yaa!**
-
-## License
-
--   Copyright © 2020 Adhi Ariyadi.
--   **Ticket is open-sourced software licensed under the MIT license.**

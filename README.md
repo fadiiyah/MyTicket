@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to MyTicket! 🤗</h1>
 
-	Github ini digunakan untuk belajar demi memenuhi tugas akhir mata kuliah Enterprise Resource Planning. 
+  **Github ini digunakan untuk belajar demi memenuhi tugas akhir mata kuliah Enterprise Resource Planning. 
  
 ## Apa itu Ticket?
 
  **MyTicket adalah sebuah web penjualan tiket transportasi online yang menyediakan berbagai macam tiket transportasi, mulai dari tiket pesawat, kereta api, bus, hingga tiket kapal laut. MyTicket menawarkan pengalaman berbelanja tiket yang langsung fokus pada kepraktisan dan kecepatan. Dengan desain sederhana dan antarmuka yang intuitif, MyTicket memberikan pengguna akses cepat dan mudah untuk memesan tiket transportasi tanpa perlu menavigasi berbagai penawaran khusus..**
 
 ## Note 🙏
-	Source Code ini bukan asli milik saya, Namun saya menggunakan Source Code milik https://github.com/adhiariyadi/Ticket-Laravel
+**Source Code ini bukan asli milik saya, Namun saya menggunakan Source Code milik https://github.com/adhiariyadi/Ticket-Laravel
 	
 ## Fitur apa saja yang tersedia di Ticket?
 
